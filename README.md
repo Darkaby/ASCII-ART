@@ -8,7 +8,7 @@ h = the height (or number of rows) of a letter in alphabet_ascii
 t = the letter or the word you wish to write in ascii art
 
 This program was test using the following arts:
- #  ##   ## ##  ### 
+ #  ##   ## ##  ###
 # # # # #   # # #   
 ### ##  #   # # ##  
 # # # # #   # # #   
@@ -24,4 +24,4 @@ This program was test using the following arts:
 | ||_____||_____|| || ||____|  |____|| || ||_____|\____| | |
 | |              | || |              | || |              | |
 | '--------------' || '--------------' || '--------------' |
- '----------------'  '----------------'  '----------------' 
+'----------------'  '----------------'  '----------------' 
